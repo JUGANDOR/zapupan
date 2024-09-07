@@ -31,7 +31,7 @@ Calle zapopan
 
 <p> </p>
 
-<img src=" Gallery_1725692124487.jpg"width="150" height="150" />
+<img src=" Gallery_1725692124487.jpg" />
 
 </body>
 </html>
